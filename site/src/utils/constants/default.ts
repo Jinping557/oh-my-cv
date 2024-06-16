@@ -176,7 +176,7 @@ ${PREVIEW_SELECTOR} ol {
 }
 
 ${PREVIEW_SELECTOR} ul {
-  list-style-type: circle;
+  list-style-type: disc;
 }
 
 ${PREVIEW_SELECTOR} ol {
