@@ -197,3 +197,17 @@
   font-weight: bold;
   src: url("~/assets/fonts/hkst/w9.ttf") format("opentype");
 }
+
+@font-face {
+  font-family: "wryh";
+  font-style: normal;
+  font-weight: normal;
+  src: url("~/assets/fonts/wryh/msyh.ttc") format("opentype");
+}
+
+@font-face {
+  font-family: "wryh";
+  font-style: normal;
+  font-weight: bold;
+  src: url("~/assets/fonts/wryh/msyhbd.ttc") format("opentype");
+}

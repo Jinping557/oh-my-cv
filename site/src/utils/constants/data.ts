@@ -39,6 +39,10 @@ export const CJK_FONTS: Font[] = [
     fontFamily: "HKST"
   },
   {
+    name: "微软雅黑",
+    fontFamily: "wryh"
+  },
+  {
     name: "霞鹜文楷",
     fontFamily: "LXGW WenKai"
   }
