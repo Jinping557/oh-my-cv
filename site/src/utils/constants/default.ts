@@ -9,11 +9,11 @@ export const DEFAULT_STYLES = {
   paragraphSpace: 5,
   themeColor: "#377bb5",
   fontCJK: {
-    name: "华康宋体",
-    fontFamily: "HKST"
+    name: "微软雅黑",
+    fontFamily: "wryh"
   },
   fontEN: {
-    name: "Minion Pro"
+    name: "Times Newer Roman"
   },
   fontSize: 15,
   paper: "A4"
